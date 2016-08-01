@@ -1,0 +1,12 @@
+{
+    "webServer": {
+        "port": 4000
+    },
+    "steam": {
+        "ApiKey": "<Your API KEY goes here"
+    },
+    "redisDb": {
+        "host": "IP of redis server",
+        "port":  6379
+    }
+}
